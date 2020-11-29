@@ -74,7 +74,8 @@ export default makeStyles(theme => ({
         },
     },
     footerName: {
-        textAlign:"center",
-        fontSize: '1.5rem'
-    }
+        textAlign: 'center',
+        fontSize: '1.5rem',
+        margin: '1.5rem 0',
+    },
 }))
